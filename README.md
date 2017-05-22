@@ -8,6 +8,10 @@ Combines the base image with a style image to create a new artistic image
 ## Base_image
 ![chicago](https://cloud.githubusercontent.com/assets/10905673/26327868/84e9fed4-3f5e-11e7-9a50-6fc0339582e2.jpg)
 
+## Combine_artistic_image
+![test3_50](https://cloud.githubusercontent.com/assets/10905673/26327921/ba07f148-3f5e-11e7-9541-24349d31f071.png)
+
+
 
 
 
