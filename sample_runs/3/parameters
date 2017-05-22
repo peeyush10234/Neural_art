@@ -1,0 +1,20 @@
+TEST 1:
+total_variation_weight = 1.0
+style_weight = 1.2
+content_weight = 0.025
+
+TEST 2:
+total_variation_weight = 1.0
+style_weight = 0.4
+content_weight = 0.225
+
+TEST 3:
+total_variation_weight = 1.0
+style_weight = 0.8
+content_weight = 0.125
+
+TEST 4:
+total_variation_weight = 5.0
+style_weight = 0.8
+content_weight = 0.125
+
